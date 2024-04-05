@@ -13,11 +13,13 @@ Oh, by the way! I'm also a graduate in architecture and have an MBA.
 
 ### Facts
 
-🔭 I’m currently working on an APIrest with Node.js, and aspiring to become a fullstack developer
+💻 I’m currently working on an APIrest with Node.js, and aspiring to become a fullstack developer
 
-🌱 I’m currently learning English
+💬 I have effective verbal and written communication skills, as well as active listening abilities.
 
-👯 I’m looking to collaborate on innovative teams
+🌏 I’m currently learning English
+
+🤝🏼 I’m looking to collaborate on innovative teams
 
 ## Contact
 
