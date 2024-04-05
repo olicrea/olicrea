@@ -1,35 +1,32 @@
-### Acerca de mí
+### About Me 🐤
 
-¡Hola! Soy una desarrolladora front-end que empezó a codear en [Laboratoria](https://www.laboratoria.la/).
+Hi there! I'm a front-end developer who started coding at [Laboratoria](https://www.laboratoria.la/).
 
-Mi enfoque profesional se basa en mucha curiosidad, creatividad, empatía, y respeto. Estas cualidades son fundamentales para mí a la hora de enfrentar desafíos y trabajar en equipo.
+My professional approach is grounded in curiosity, creativity, empathy, and respect. These qualities are fundamental to me when facing challenges and working in teams.
 
-Mis habilidades en herramientas digitales, gestión y diseño participativo son mi tarjeta de presentación, siempre orientada a resultados.
+My skills in digital tools, management, and participatory design are my calling card, always geared towards results.
 
-Ah, ¡por cierto! también soy graduada en arquitectura y tengo un MBA.
+Oh, by the way! I'm also a graduate in architecture and have an MBA.
 
-## Habilidades
+## Skills
 
-- Desarrollo Front-end: JavaScript, HTML, CSS
+- Front-end Development: JavaScript, HTML, CSS
 - Frameworks: Express
-- Herramientas de diseño: Adobe Creative Suite, Figma
-- Gestión de proyectos: Metodologías ágiles (Scrum)
+- Design Tools: Adobe Creative Suite, Figma
+- Project Management: Agile Methodologies (Scrum)
 
-## Contacto
+## Facts
 
-¡Estoy emocionada por seguir creciendo como profesional y contribuir al desarrollo de proyectos que marquen la diferencia! Siempre abierta a nuevas oportunidades y colaboraciones.
+🔭 I’m currently working on an APIrest with Node.js
 
-- Email: [tu@email.com](olimar.digital@gmail.com)
+🌱 I’m currently learning English, backend development, and aspiring to become a fullstack developer
 
-¡No dudes en contactarme!
+👯 I’m looking to collaborate on innovative teams
 
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm excited to continue growing as a professional and contribute to projects that make a difference! Always open to new opportunities and collaborations.
 
+- Email: [olimar.digital@gmail.com](olimar.digital@gmail.com)
+
+🚀 Feel free to reach out!
