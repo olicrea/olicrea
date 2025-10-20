@@ -1,8 +1,8 @@
 ## 🐤 About Me 
 
-Hi there! I'm a front-end developer who started coding at [Laboratoria](https://www.laboratoria.la/). I'm a work-in-progress full stack developer.
+Hi there! I'm a front-end developer who started coding at [Laboratoria](https://www.laboratoria.la/). I'm a work-in-progress full stack developer (with Oracle ONE, Alura Latam and DataCamp).
 
-My professional approach is grounded in curiosity, creativity, empathy, and respect. These qualities are fundamental to me when facing challenges and working in teams.
+My professional approach is grounded in curiosity, creativity, empathy and flexibility. These qualities are fundamental to me when facing challenges and working in teams.
 
 My skills in digital tools, management, and participatory design are my calling card, always geared towards results.
 
@@ -13,7 +13,7 @@ Oh, by the way! I'm also a graduate in architecture and have an MBA.
 
 ### Facts
 
-💻 I’m currently working on an APIrest with Node.js, and express.
+💻 I’m currently working on an APIrest with React, and FastApi.
 
 💬 I have effective verbal and written communication skills, as well as active listening abilities.
 
