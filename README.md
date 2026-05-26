@@ -1,32 +1,22 @@
 # 🐤 About Me 
 
-### **Full-Stack Developer | Data Science | Architect & MBA**
+**Architect AEC · Data Scientist · Full Stack Developer | MBA**
 
-Currently focused on the intersection of web development, data analytics, and business strategy.
+Working at the intersection of construction, urban data, software development, and business strategy.
 
-🛠 Current Focus: Data Transformation with Python, JavaScript, Node.js, TypeScript, and SQL.
+**What I build:**
+- 🏗️ AEC digital tools & workflow automation (AutoLISP, CAD, BIM)
+- 🗺️ Geospatial & territorial analytics (DBSCAN, Prophet, Folium)
+- 🔌 REST APIs with Node.js, TypeScript, PostgreSQL, Prisma
+- 🤖 AI agents and automation with Claude Code
+- 📊 ML pipelines with Python, scikit-learn, pandas
 
-🌱 Learning: Advanced Machine Learning and Cloud Integration.
+**Currently:** Expanding into Cloud Computing and AI (Oracle Next Education & Alura Latam)
 
-💼 Experience: Over 10 years in project management and participatory design.
+**Background:** 10+ years as an architect — I understand the problems I'm building solutions for.
 
-"Turning complex problems into elegant, data-driven solutions."
+📫 olimar.digital@gmail.com
 
-## Facts
-
-💬 I have effective verbal and written communication skills, as well as active listening abilities.
-
-🌏 I’m currently learning English. I'm B2
-
-💡 I’m a lifelong learner (Laboratoria, Alura+Oracle, DataCamp, ...) driven by curiosity and a commitment to creating impactful digital products.
-
-## Contact
-
-I'm excited to continue growing as a professional and contribute to projects that make a difference! Always open to new opportunities and collaborations.
-
-- Email: [olimar.digital@gmail.com](olimar.digital@gmail.com)
-
-🚀 Feel free to reach out!
 
 ---
 
