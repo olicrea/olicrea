@@ -1,6 +1,6 @@
 # 🐤 About Me 
 
-**Architect AEC · Data Scientist · Full Stack Developer | MBA**
+## **Architect AEC · Data Scientist · Full Stack Developer | MBA**
 
 Working at the intersection of construction, urban data, software development, and business strategy.
 
